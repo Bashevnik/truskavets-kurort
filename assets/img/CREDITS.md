@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Armin  Rimoldi
+- rooms/hotel.jpg — Engin Akyurt
+- rooms/treat.jpg — Max Vakhtbovych
+- rooms/room.jpg — Quang Nguyen Vinh
+- rooms/tour.jpg — Марія Факащук
+- rooms/family.jpg — Atlantic Ambience
+- rooms/pool.jpg — cottonbro studio
+- infra/office.jpg — Pavel Danilyuk
+- infra/water.jpg — Orhan Akbaba
+- infra/nature.jpg — Саша Алалыкин
